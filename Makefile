@@ -1,2 +1,2 @@
 run:
-	deno run --allow-net --allow-read --importmap=importmap.json --unstable mod.tsx
+	deno run --allow-net --allow-read --importmap=importmap.json --unstable --reload mod.tsx
