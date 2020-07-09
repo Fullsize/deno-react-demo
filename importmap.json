@@ -1,6 +1,5 @@
 {
 	"imports":{
-		"react":"./models/react.ts",
-		"react-dom/server":"./models/react_dom_server.ts"
 	}
+	
 }
